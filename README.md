@@ -1,4 +1,7 @@
 # Solong - 1337 (42 Network)
+
+![Dining Philosophers](https://github.com/REDX-at/So_long/blob/master/images/Screen%20Shot%202024-09-18%20at%2011.20.00%20AM.png)
+
 Solong is a project focused on creating a basic 2D game using the MiniLibX library. The goal is to implement a simple game where the player navigates through a grid, collecting items and avoiding obstacles.
 
 ## Introduction
@@ -25,4 +28,3 @@ File-Based Maps: Load game maps from external files to create dynamic and varied
 ### Contact
 For any questions or feedback, feel free to reach out to me at taoussi.aimen@gmail.com or visit my GitHub profile at GitHub.
 
-![Dining Philosophers](https://github.com/REDX-at/So_long/blob/master/images/Screen%20Shot%202024-09-18%20at%2011.20.00%20AM.png)
